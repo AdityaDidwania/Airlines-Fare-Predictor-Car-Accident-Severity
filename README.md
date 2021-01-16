@@ -3,7 +3,7 @@
 
 ## Airlines-Fare-Predictor
 
-### * Created a predictive model to predict fares in the event a new airport is brought into service
+* Created a predictive model to predict fares in the event a new airport is brought into service
 
 ### Explored the numerical predictors and Fare by creating a correlation table and examining scatterplots between FARE and those predictors.
  
